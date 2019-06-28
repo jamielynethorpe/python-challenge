@@ -1,3 +1,3 @@
-# python-challenge
+# Python-Challenge
 PyBank
 PyPoll
